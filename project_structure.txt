@@ -1,0 +1,16 @@
+📁 rock_paper_scissors_bot
+├── 📁 config
+│   └── config.py
+├── 📁 handlers
+│   ├── other.py
+│   └── user.py
+├── 📁 keyboards
+│   └── keyboards.py
+├── 📁 lexicon
+│   └── lexicon.py
+├── 📁 services
+│   └── services.py
+├── .gitignore
+├── .env
+├── .env.example
+└── main.py
